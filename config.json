@@ -1,7 +1,8 @@
 {
+  "_comment": "enabled=false 또는 killSwitch=true면 비활성화",
   "enabled": true,
-  "message": "확장프로그램이 정상 작동 중입니다.",
-  "version": "1.0.0",
-  "update_url": "",
-  "last_updated": "2026-05-08"
+  "killSwitch": false,
+  "killKey": "Xp7mR2vK9nL4qT8wB3jF6",
+  "killSalt": "Yw5cH0dN8sG1fA4iO6uE9",
+  "version": "1.0.0"
 }
